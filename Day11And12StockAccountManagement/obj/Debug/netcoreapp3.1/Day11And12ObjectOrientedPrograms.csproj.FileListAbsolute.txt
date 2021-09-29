@@ -1,0 +1,14 @@
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\bin\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.exe
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\bin\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.deps.json
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\bin\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.runtimeconfig.json
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\bin\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.runtimeconfig.dev.json
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\bin\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.dll
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\bin\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.pdb
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\obj\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.csproj.AssemblyReference.cache
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\obj\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\obj\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.AssemblyInfoInputs.cache
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\obj\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.AssemblyInfo.cs
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\obj\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.csproj.CoreCompileInputs.cache
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\obj\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.dll
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\obj\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.pdb
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12ObjectOrientedPrograms\obj\Debug\netcoreapp3.1\Day11And12ObjectOrientedPrograms.genruntimeconfig.cache
