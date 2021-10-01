@@ -1,0 +1,14 @@
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\obj\Debug\netcoreapp3.1\Day13GenericMaxNumber.csproj.AssemblyReference.cache
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\obj\Debug\netcoreapp3.1\Day13GenericMaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\obj\Debug\netcoreapp3.1\Day13GenericMaxNumber.AssemblyInfoInputs.cache
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\obj\Debug\netcoreapp3.1\Day13GenericMaxNumber.AssemblyInfo.cs
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\obj\Debug\netcoreapp3.1\Day13GenericMaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\bin\Debug\netcoreapp3.1\Day13GenericMaxNumber.exe
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\bin\Debug\netcoreapp3.1\Day13GenericMaxNumber.deps.json
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\bin\Debug\netcoreapp3.1\Day13GenericMaxNumber.runtimeconfig.json
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\bin\Debug\netcoreapp3.1\Day13GenericMaxNumber.runtimeconfig.dev.json
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\bin\Debug\netcoreapp3.1\Day13GenericMaxNumber.dll
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\bin\Debug\netcoreapp3.1\Day13GenericMaxNumber.pdb
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\obj\Debug\netcoreapp3.1\Day13GenericMaxNumber.dll
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\obj\Debug\netcoreapp3.1\Day13GenericMaxNumber.pdb
+C:\Users\3011313\Desktop\BridgeLabzz\Day13GenericMaxNumber\obj\Debug\netcoreapp3.1\Day13GenericMaxNumber.genruntimeconfig.cache
