@@ -1,0 +1,13 @@
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12CompanySharesQueue\bin\Debug\netcoreapp3.1\Day11And12CompanySharesQueue.exe
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12CompanySharesQueue\bin\Debug\netcoreapp3.1\Day11And12CompanySharesQueue.deps.json
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12CompanySharesQueue\bin\Debug\netcoreapp3.1\Day11And12CompanySharesQueue.runtimeconfig.json
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12CompanySharesQueue\bin\Debug\netcoreapp3.1\Day11And12CompanySharesQueue.runtimeconfig.dev.json
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12CompanySharesQueue\bin\Debug\netcoreapp3.1\Day11And12CompanySharesQueue.dll
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12CompanySharesQueue\bin\Debug\netcoreapp3.1\Day11And12CompanySharesQueue.pdb
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12CompanySharesQueue\obj\Debug\netcoreapp3.1\Day11And12CompanySharesQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12CompanySharesQueue\obj\Debug\netcoreapp3.1\Day11And12CompanySharesQueue.AssemblyInfoInputs.cache
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12CompanySharesQueue\obj\Debug\netcoreapp3.1\Day11And12CompanySharesQueue.AssemblyInfo.cs
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12CompanySharesQueue\obj\Debug\netcoreapp3.1\Day11And12CompanySharesQueue.csproj.CoreCompileInputs.cache
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12CompanySharesQueue\obj\Debug\netcoreapp3.1\Day11And12CompanySharesQueue.dll
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12CompanySharesQueue\obj\Debug\netcoreapp3.1\Day11And12CompanySharesQueue.pdb
+C:\Users\3011313\Desktop\BridgeLabzz\Day11And12CompanySharesQueue\obj\Debug\netcoreapp3.1\Day11And12CompanySharesQueue.genruntimeconfig.cache
